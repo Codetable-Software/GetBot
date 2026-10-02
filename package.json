@@ -1,0 +1,12 @@
+{
+  "name": "getbot",
+  "version": "1.0.0",
+  "description": "Web search engine core by Codetable Software",
+  "main": "index.js",
+  "type": "module",
+  "license": "Apache-2.0",
+  "author": "Codetable Software",
+  "exports": "./index.js",
+  "scripts": { "test": "node --test" },
+  "engines": { "node": ">=18" }
+}
